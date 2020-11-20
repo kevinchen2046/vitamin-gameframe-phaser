@@ -1,0 +1,8 @@
+{
+	"initial": [
+		"libs/phaser/phaser.js"
+	],
+	"game": [
+		"main.js"
+	]
+}
